@@ -68,7 +68,9 @@ While our sentiment analysis model strives for accuracy, it's essential to ackno
 Citation: Go, A., Bhayani, R. and Huang, L., 2009. Twitter sentiment classification using distant supervision. CS224N Project Report, Stanford, 1(2009), p.12.
 
 ## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/soumyadeepghoshGG/Twitter-Sentiment-Analysis-with-NLP/blob/main/License.txt) file for details.
+## License
+This project is licensed under the MIT License. See the LICENSE file in this repository for details.
+
 
 ## Contact
-For questions or issues, please contact me (Soumyadeep Ghosh) via mail: soumyadeepghosh57@gmail.com
+For questions or issues, please contact me (Ade Manikanta) via manikantade@gmail.com
